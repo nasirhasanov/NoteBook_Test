@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> Тест блокнота </string>
+    <string name = "sign_in"> Увійти </string>
+    <string name = "email"> Електронна пошта </string>
+    <string name = "password"> Пароль </string>
+    <string name = "don_t_have_account"> Не маєте облікового запису? </string>
+    <string name = "auth_failed"> Помилка авторизації </string>
+    <string name = "check_connection"> check_connection </string>
+    <string name = "sign_up"> Зареєструватися </string>
+    <string name = "create_account"> Створити обліковий запис </string>
+    <string name = "username"> Ім\'я користувача </string>
+    <string name = "have_an_account"> Маєте обліковий запис? </string>
+    <string name = "new_note"> Нова примітка </string>
+    <string name = "no_notes_yet"> У вас ще немає приміток! </string>
+    <string name = "add_new_note"> Додати нову примітку </string>
+    <string name = "your_note"> Ваша примітка </string>
+    <string name = "my_notes"> Мої нотатки </string>
+    <string name = "save"> Зберегти </string>
+    <string name = "please_wait"> Зачекайте… </string>
+    <string name = "delete"> Видалити </string>
+</resources>

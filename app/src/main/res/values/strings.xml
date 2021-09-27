@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NoteBook Test</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+    <string name="auth_failed">Authorization Failed</string>
+    <string name="check_connection">check_connection</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_account">Create Account</string>
+    <string name="username">Username</string>
+    <string name="have_an_account">Have an account?</string>
+    <string name="new_note">New Note</string>
+    <string name="no_notes_yet">You don\'t have any notes yet!</string>
+    <string name="add_new_note">Add New Note</string>
+    <string name="your_note">Your Note</string>
+    <string name="my_notes">My Notes</string>
+    <string name="save">Save</string>
+    <string name="please_wait">Please Wait …</string>
+    <string name="delete">Delete</string>
+</resources>
